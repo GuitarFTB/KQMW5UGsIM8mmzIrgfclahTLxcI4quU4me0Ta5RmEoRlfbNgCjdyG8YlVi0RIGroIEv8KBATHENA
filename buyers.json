@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "buyer": "sharkbait",
+        "enabled": true,
+        "expires": "20260409",
+        "hwid": "073B31E6-57DF-45CA-9600-9BECCE9D4362",
+        "key_hash": "3942A489F182E0237F5C0EB207AC71CA918D6E04060792EB2F1FBCFAC9AA950E",
+        "tier": "Private"
+    }
+]
