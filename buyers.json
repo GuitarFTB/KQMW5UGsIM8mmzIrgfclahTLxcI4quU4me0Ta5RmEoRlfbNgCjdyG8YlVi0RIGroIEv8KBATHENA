@@ -6,5 +6,13 @@
         "hwid": "073B31E6-57DF-45CA-9600-9BECCE9D4362",
         "key_hash": "3942A489F182E0237F5C0EB207AC71CA918D6E04060792EB2F1FBCFAC9AA950E",
         "tier": "Private"
+    },
+    {
+        "buyer": "Niggabutt",
+        "enabled": true,
+        "expires": "90000408",
+        "hwid": "ATHENA-409E18C94B70",
+        "key_hash": "38A38E7BC864C423EE165F2C6006AA3EDBC4D0CEA78234C7AD75E4CC03007353",
+        "tier": "Private"
     }
 ]
